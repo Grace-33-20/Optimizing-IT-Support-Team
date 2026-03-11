@@ -1,4 +1,4 @@
-# 📊 Optimizing IT Support Team Performance Using Analytics
+# 📊 Title of the Project:Optimizing IT Support Team Performance Using Analytics
 
 ## 📌 Project Overview
 
@@ -127,5 +127,7 @@ These improvements can significantly enhance **support efficiency and customer s
 
 
 ## 🚀 Project Workflow
+## Author
+## Sharon Grace Mamidi
 
 
